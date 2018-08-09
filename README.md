@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # kingWhether
-天气数据来源：和风天气
+whether 
+=======
+# FuShengNews
+浮生资讯，带给你最新的新闻资讯。
+>>>>>>> init
